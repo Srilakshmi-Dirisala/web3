@@ -1,0 +1,24 @@
+{
+  "name": "web3",
+  "version": "1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srilakshmi-Dirisala/web3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srilakshmi-Dirisala/web3/issues"
+  },
+  "homepage": "https://github.com/Srilakshmi-Dirisala/web3#readme",
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "web3": "^2.0.0-alpha"
+  }
+}
